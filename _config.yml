@@ -18,14 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 🚧正在施工
+title: 🎉SZ2528的主页
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   没有描述。
 baseurl: "" # the subpath of your site, e.g. /blog
+show_downloads: true
 url: "https://sz2528.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  SZ2528
+github_username: SZ2528
 
 # Build settings
 markdown: GFM
