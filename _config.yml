@@ -23,7 +23,7 @@ title: 🎉SZ2528的主页
 description: >- # this means to ignore newlines until "baseurl:"
   没有描述。
 baseurl: "" # the subpath of your site, e.g. /blog
-show_downloads: true
+show_downloads: false
 url: "https://sz2528.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username: SZ2528
