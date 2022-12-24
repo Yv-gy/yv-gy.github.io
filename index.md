@@ -1,7 +1,5 @@
 ---
 layout: default
-github:
-  zip_url: bilibili.com
 ---
 
 这里是SZ2528的主页，不过还没想好写什么。
