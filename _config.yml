@@ -52,6 +52,9 @@ sns:
 # RSS
 RSS: false
 
+# Mathjax 公式支持
+mathjax: true
+
 # Share
 social-share: true # 开启或者关闭分享功能
 social-share-items: ["wechat", "weibo", "douban","twitter"]
