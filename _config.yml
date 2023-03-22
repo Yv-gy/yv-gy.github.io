@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 😅
+title: 咕咕咕！
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   没有描述。
@@ -27,7 +27,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 show_downloads: false
 url: "https://sz2528.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username: SZ2528
+github_username: Yv_gy
 
 # Navigation links
 nav:
@@ -36,8 +36,8 @@ nav:
 
 # Author 配置博主信息
 author: "SZ2528"
-nickname: "好东西就要来了"
-bio: "What's up"
+nickname: "雨革月LXH"
+bio: "咕咕咕！"
 avatar: "assets/img/profile.png"
 
 # Search
@@ -48,7 +48,7 @@ nightMode: true
 
 # SNS settings 配置社交网站url
 sns:
-  github: "//github.com/SZ2528"
+  github: "//github.com/Yv_gy"
 
 # RSS
 RSS: false
