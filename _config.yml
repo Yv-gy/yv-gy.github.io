@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   没有描述。
 # keyword: ""
 baseurl: "" # the subpath of your site, e.g. /blog
-show_downloads: false
-url: "https://sz2528.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# show_downloads: false
+url: "https://yv-gy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username: Yv_gy
 
@@ -35,7 +35,7 @@ nav:
   tags: "/tags.html"
 
 # Author 配置博主信息
-author: "SZ2528"
+author: "雨革月LXH"
 nickname: "雨革月LXH"
 bio: "咕咕咕！"
 avatar: "assets/img/profile.png"
